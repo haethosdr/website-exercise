@@ -5,7 +5,7 @@ The skills i will have demonstrated upon completing this project are:
 using css cascades to shape the webpage and add style, arranging content 
 around the page with precision, adding creative touches to the project 
 which are wholly my choice and taste, finding information on the web of 
-which i havent yet been taught, envisioning the proper approach to 
+which i havent yet been taught,and envisioning the proper approach to 
 building a layout.
 
 
